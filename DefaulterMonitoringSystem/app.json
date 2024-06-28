@@ -1,0 +1,31 @@
+
+{
+  "expo": {
+    "name": "DMS",
+    "slug": "DMS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/MadeInVCET.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/VCET_Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/VCET_Logo1.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/VCET_Logo1.png"
+    }
+  }
+}
